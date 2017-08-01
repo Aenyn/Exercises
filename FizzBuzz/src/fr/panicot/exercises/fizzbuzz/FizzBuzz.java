@@ -4,7 +4,7 @@ package fr.panicot.exercises.fizzbuzz;
  * Created by William on 01/08/2017.
  * Outputs every number from 1 to 100 except:
  * - if a number is divisible by 3, output Fizz instead
- * - if a number is divisible by 5, output Buzz instead²
+ * - if a number is divisible by 5, output Buzz instead
  * - if a number is divisible by both, output FizzBuzz
  */
 public class FizzBuzz {
