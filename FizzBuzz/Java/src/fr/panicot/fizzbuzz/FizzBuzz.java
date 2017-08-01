@@ -1,4 +1,4 @@
-package fr.panicot.exercises.fizzbuzz;
+package fr.panicot.fizzbuzz;
 
 /**
  * Created by William on 01/08/2017.
